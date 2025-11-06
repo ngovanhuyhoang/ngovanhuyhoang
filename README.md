@@ -13,5 +13,12 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ngovanhuyhoang&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/snake-dark.svg" />
+    <img alt="snake" src="./dist/snake.svg" />
+  </picture>
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
